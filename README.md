@@ -13,14 +13,10 @@ Elaborado por Oscar Javier Maldonado
 
 | Grupo | Tema / Dataset |
 |:-----:|:--------------|
-| **1** | **Planes de desarrollo Antioquia 2020–2023**  
-Textos oficiales (resúmenes ejecutivos, pronunciamientos municipales). |
-| **2** | **Brutalidad policial en Colombia**  
-Tweets recolectados durante el estallido social (nov 2019–jun 2020). |
-| **3** | **Vacuna COVID**  
-Publicaciones de Facebook/Instagram extraídas con Crowdtangle (ene–dic 2021). |
-| **4** | **Rappi y el Día de la Madre**  
-Tweets 1–15 may 2020: colapsos de entregas y percepciones ciudadanas. |
+| **1** | **Planes de desarrollo Antioquia 2020–2023** Textos oficiales (resúmenes ejecutivos, pronunciamientos municipales). |
+| **2** | **Brutalidad policial en Colombia**  Tweets recolectados durante el estallido social (nov 2019–jun 2020). |
+| **3** | **Vacuna COVID**  Publicaciones de Facebook/Instagram extraídas con Crowdtangle (ene–dic 2021). |
+| **4** | **Rappi y el Día de la Madre**  Tweets 1–15 may 2020: colapsos de entregas y percepciones ciudadanas. |
 
 ## 🛠 Herramientas y librerías
 
