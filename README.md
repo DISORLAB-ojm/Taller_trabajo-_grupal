@@ -1,4 +1,4 @@
-# Taller_trabajo-_grupal
+# Taller_trabajo_grupal
 Instrucciones trabajo grupal SICSS Bogota 2025
 Elaborado por Oscar Javier Maldonado
 
